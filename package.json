@@ -9,9 +9,13 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "browserify": "^13.0.0",
     "gulp": "^3.9.1",
     "gulp-live-server": "0.0.29",
     "gulp-open": "^1.0.0",
-    "ip": "^1.1.2"
+    "gulp-uglify": "^1.5.3",
+    "ip": "^1.1.2",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
   }
 }
