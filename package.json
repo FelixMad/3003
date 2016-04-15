@@ -1,7 +1,7 @@
 {
   "name": "3003",
   "version": "1.0.0",
-  "description": "",
+  "description": "Ejemplo para practicar el uso de Browserify",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,5 +17,14 @@
     "ip": "^1.1.2",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelixMad/3003.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FelixMad/3003/issues"
+  },
+  "homepage": "https://github.com/FelixMad/3003#readme"
 }
